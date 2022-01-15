@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajmalyousufz
 - 👀 I’m interested in Programming espeasially Android development
-- 🌱 I’m currently Complered Android development Course
+- 🌱 I’m currently Completed Android development Course
 - 💞️ I’m looking to collaborate on cross roads team
 - 📫 How to reach me -- email -- ajmalyousufza@gmail.com
 
