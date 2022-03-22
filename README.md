@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajmalyousufz
 - 👀 I’m Android developer
-- 🌱 I’m currently working as Android developer at AVES imagiobox maharashtra
+- 🌱 I’m currently working as Android developer at AVES imagiobox kollam
 - 💞️ I’m looking to collaborate on cross roads team
 - 📫 How to reach me -- email -- ajmalyousufza@gmail.com
 
